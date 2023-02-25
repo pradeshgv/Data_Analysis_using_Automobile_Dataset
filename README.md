@@ -9,18 +9,18 @@ This repository has 5 notebooks with each module having different concepts.
 4. Model Development
 5. Model Evaluation and Refinement
 
-##Datasets
+## Datasets
 The whole project uses different types of automobile datasets in the different modules which are included in the repository
 
 ## Packages Used
-->Numpy
-->Scipy
-->Pandas
-->Scikit-Learn(sklearn)
-->Matplotlib
-->Seaborn
-->IPyWidgets
-->tqdm
+1. Numpy
+2. Scipy
+3. Pandas
+4. Scikit-Learn(sklearn)
+5. Matplotlib
+6. Seaborn
+7. IPyWidgets
+8. tqdm
 
 ## How to Run
 
